@@ -1,2 +1,2 @@
 # kirka-cheats
-kirka cheats showcase
+kirka cheat scripts obfuscated, for educational purposes
